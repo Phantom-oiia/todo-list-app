@@ -17,3 +17,7 @@
 
 2. Скачивайте приложение!
    https://github.com/Phantom-oiia/todo-list-app/releases/download/note/todo-list-app.apk
+
+
+## Как найти файлы проекта:
+   Ищите вкладку ветки (гаходится слева, чуть ниже меню), там выбираете ветку master, в ней и лежат все папки проекта.
